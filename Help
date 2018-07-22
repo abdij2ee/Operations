@@ -9,3 +9,8 @@
 5.Add .idea and *.iml to end of .gitignore file.
 6.Select all files in Version Control tab, then right click and select Commit...
 7.Select Unversioned Files and unselect Perform code analysis and fill optional message and then press Commit.
+8.Login to your github account(github.com, abdij2ee:123456jee) and create New repository(Plus sign)(Operations).
+9.Copy https://github.com/abdij2ee/Operations.git url.
+10.Open VCS --> Git --> Remotes... window and paste url.
+11.Open VCS --> Git --> Push
+12.Refresh https://github.com/abdij2ee/Operations url.
