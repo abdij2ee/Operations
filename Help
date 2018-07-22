@@ -14,3 +14,6 @@
 10.Open VCS --> Git --> Remotes... window and paste url.
 11.Open VCS --> Git --> Push
 12.Refresh https://github.com/abdij2ee/Operations url.
+13.Add some code to Main class.
+14.Select all files in Version Control tab, then right click and select Commit...
+15.Select Unversioned Files and unselect Perform code analysis and fill optional message and then press Commit and Push.
