@@ -7,5 +7,5 @@
 3.Open Version Control tab from bottom left.
 4.Right click on Operations project and select New --> .ignore file --> .gitignore file(Git) --> Java --> Generate without duplicates --> Yes
 5.Add .idea and *.iml to end of .gitignore file.
-6.Select all files in Version Control tab, then right click and select Commit Changes...
-7.Select Unversioned Files and unselect Perform code analysis
+6.Select all files in Version Control tab, then right click and select Commit...
+7.Select Unversioned Files and unselect Perform code analysis and fill optional message and then press Commit.
