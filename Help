@@ -1,20 +1,18 @@
-1.Make sure git installed in your computer and seted in intelliJ and have GitHub account.
+1.Make sure git installed in your computer and had set in intelliJ and have GitHub account.
 2.In File --> Settings --> GitHUb section, test and apply for connection to your GitHub account.
-3.VCS --> Import into Version Control --> Share Project on GitHub
-
-1.Install .ignore plugin(File --> Settings --> Plugins).
-2.VCS --> Enable Version Control Integration... --> Git
-3.Open Version Control tab from bottom left.
-4.Right click on Operations project and select New --> .ignore file --> .gitignore file(Git) --> Java --> Generate without duplicates --> Yes
-5.Add .idea and *.iml to end of .gitignore file.
-6.Select all files in Version Control tab, then right click and select Commit...
-7.Select Unversioned Files and unselect Perform code analysis and fill optional message and then press Commit.
-8.Login to your github account(github.com, abdij2ee:123456jee) and create New repository(Plus sign)(Operations).
-9.Copy https://github.com/abdij2ee/Operations.git url.
-10.Open VCS --> Git --> Remotes... window and paste url.
-11.Open VCS --> Git --> Push
-12.Refresh https://github.com/abdij2ee/Operations url.
-13.Add some code to Main class.
-14.Select all files in Version Control tab, then right click and select Commit...
-15.Select Unversioned Files and unselect Perform code analysis and fill optional message and then press Commit and Push then Push.
-16.Refresh https://github.com/abdij2ee/Operations url.
+3.Install .ignore plugin(File --> Settings --> Plugins).
+4.VCS --> Enable Version Control Integration... --> Git
+5.Right click on Operations project and select New --> .ignore file --> .gitignore file(Git) --> Java --> Generate without duplicates --> Yes
+6.Add .idea and *.iml to end of .gitignore file.
+7.Open Version Control tab from bottom left.
+8.Select all files in Version Control tab, then right click and select Commit...(Or only press Commit button in top right window 's section).
+9.Select Unversioned Files and unselect Perform code analysis and fill optional message and then press Commit.(Local Repository)
+10.Login to your github account(github.com, abdij2ee:123456jee) and create New repository(Plus sign). Name it Operations.
+11.Copy https://github.com/abdij2ee/Operations.git url.
+12.Open VCS --> Git --> Remotes... window and paste url.
+13.Open VCS --> Git --> Push
+14.Refresh https://github.com/abdij2ee/Operations url.
+15.Add some code to Main class.
+16.Select all files in Version Control tab, then right click and select Commit...(Or only press Commit button in top right window 's section).
+17.Select Unversioned Files and unselect Perform code analysis and fill optional message and then press Commit and Push then Push.
+18.Refresh https://github.com/abdij2ee/Operations url.
