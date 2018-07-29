@@ -6,6 +6,7 @@ public class Main
         System.out.println("Hello");
 		System.out.println("How are you?");
 		System.out.println("Thanks.");
+		System.out.println("And you?");
 
         Car car = new Car();
     }
